@@ -1,5 +1,8 @@
 # Problem-Solving-Statistics
 
+**Total Problems solved**: `5187` <br>
+**Full Statistics**:
+
 | OJ Names         | No. of problems Solved  | Username         |
 |:----------------:|:-----------------------:|:----------------:|
 |`Codeforces`|2549|[prodipdatta7](https://www/codeforces.com/profile/prodipdatta7)|
